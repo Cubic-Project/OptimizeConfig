@@ -1,7 +1,8 @@
-# OptimizeConfig
+# VersionDocs
+
+Cubic Wiki 存放版本特化文档的地方，由RemoteGHViewer 提供
+
+协议与主仓库一致
 
 
-NitWikit 存放优化配置文档的仓库
-
-文档协议与 NitWikit 主仓库一致
 
